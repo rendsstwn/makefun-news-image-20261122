@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261122/rendsstwn/makefun-news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 [![reward](https://make.fun/badge/news-image-20261122/rendsstwn/makefun-news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
-Sum up the world's news of Sunday 22 November 2026 in one image. The entry program writes a 1024x1024 PNG digest of 30 stories from that day: COP31 collapses in Antalya, Iran strikes in Bahrain and tankers near the Strait of Hormuz, Trump, Xi and Putin meet in Shenzhen, 186 drones over Ukraine, a missile hits Kryvyi Rih, the Sparta II ablaze in the Gulf of Finland, markets in correction, a cartel boss captured in Mexico, and 22 more stories from around the world. Sources: Reuters, AP, AFP, Al Jazeera, Helsinki Times, 22 Nov 2026.
+Sum up the world's news of Sunday 22 November 2026 in one image. The entry program writes a 1024x1024 PNG digest of 36 stories from that day: COP31 collapses in Antalya, Iran strikes in Bahrain and tankers near the Strait of Hormuz, Trump, Xi and Putin meet in Shenzhen, 186 drones over Ukraine, a missile hits Kryvyi Rih, the Sparta II ablaze in the Gulf of Finland, markets in correction, a cartel boss captured in Mexico, Verstappen wins in Las Vegas, and 27 more stories from around the world. Sources: Reuters, AP, AFP, Al Jazeera, Helsinki Times, 22 Nov 2026.
 
 ## Run it
 
